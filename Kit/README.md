@@ -1,3 +1,5 @@
+This is Kit's branch
+
 # Trendsplanation
 
 ## Instruction for developer
