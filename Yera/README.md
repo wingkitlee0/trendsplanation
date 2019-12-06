@@ -3,4 +3,7 @@
 ## Instruction for developer
 
 1. Fork the branch!
-2. This is Yera - I am testing my local repository!
+2. Yera - it's not easy!
+3. ......
+4. hi
+5. another try
