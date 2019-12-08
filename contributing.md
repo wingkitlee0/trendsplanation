@@ -12,8 +12,8 @@
 
         replace ```[your_user_name]``` with your user name.
 
-    2. On your computer, make some changes and commit the change, e.g., 
+    2. On your computer, make some changes and commit the change
 
         1. Create a directory with your name
 
-3. To add that directory in your repo 
+        2. To add that directory in your repo 
