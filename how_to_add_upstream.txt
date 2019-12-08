@@ -1,5 +1,0 @@
-1. git remote add upstream git@github.com:ndpip/trendsplanation.git
-
-2. git remote -v # check different current repos
-
-3. git pull upstream master # pull the changes from others to your local fork
